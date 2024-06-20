@@ -1,0 +1,19 @@
+.center-header {
+  color: tan;
+  text-align: center;
+  font-style: italic;
+}
+
+.skill-container {
+  border: solid tan;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+  margin-bottom: 10px;
+}
+
+.skill-container > h3 {
+  color: tan;
+  font-style: italic;
+}
